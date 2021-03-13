@@ -1,0 +1,40 @@
+.note_container {
+	border-bottom: 2px dotted;
+	margin-top: 20px;
+}
+
+#icon {
+	width: 40px;
+	height: 40px;
+	margin: 25px;
+	padding: 10px;
+	background-color: #03dfb9;
+	border-radius: 50%;
+}
+
+.note_item {
+	display: inline-block;
+}
+
+.buttons {
+	margin-bottom: 10px;
+	margin-left: 100px;
+}
+
+.buttons button {
+	margin: 5px;
+	background-color: transparent;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.save_button {
+	margin: 5px;
+	background-color: transparent;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+}

@@ -1,0 +1,52 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	background-color: #03dfb9;
+	height: 375px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: -10px;
+	width: 110%;
+}
+
+.container {
+	margin-top: 0px;
+}
+
+input {
+	display: block;
+	margin: 20px auto;
+	width: 320px;
+	height: 35px;
+	padding-left: 10px;
+}
+
+textarea {
+	display: block;
+	margin: auto;
+	width: 325px;
+	height: 175px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+.submit {
+	display: block;
+	margin: 25px auto;
+	border: none;
+	outline: none;
+	width: 337px;
+	height: 35px;
+	cursor: pointer;
+}
+
+.notes input {
+	margin-top: 0;
+	width: 100%;
+	padding-left: 45px;
+	font-weight: bold;
+}
